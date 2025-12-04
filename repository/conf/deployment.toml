@@ -7,8 +7,8 @@ server_role = "default"
 
 [super_admin]
 username = "admin"
-password = "admin"
-create_admin_account = true
+password = "AtNq!Zq6zHzQrxSV"
+create_admin_account = false
 
 [user_store]
 type = "database_unique_id"
