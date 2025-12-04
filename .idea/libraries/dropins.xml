@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dropins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/repository/components/dropins/org.wso2.charon3.core-4.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository/components/dropins/org.wso2.carbon.identity.oauth2.grant.jwt-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository/components/dropins/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls-2.4.38.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

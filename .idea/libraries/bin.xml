@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/tcpmon-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/tomcat-juli-9.0.94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/org.wso2.carbon.bootstrap-4.9.28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
